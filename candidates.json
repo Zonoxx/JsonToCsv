@@ -1,0 +1,432 @@
+{
+    "Data": [
+        {
+            "Id": "9dab0744-6648-41bf-97eb-d8894363d944",
+            "JobDescription": "Produktionsmitarbeiterin",
+            "WorkExperienceInMonths": 48,
+            "ShiftWork": 2,
+            "Address": {
+                "Zip": "1160",
+                "City": "Wien",
+                "Country": "at",
+                "Region": "Wien"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 2
+                }
+            ],
+            "DeploymentRadius": 20,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 1,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2,
+            "AdditionalInformation": "Ausbildung und Freigabe f\u00FCr Reinraumklasse C und D",
+            "CustomIdentifier": "0022",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865571770367719,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "bee19864-686f-490c-b039-77ccc4a452ec",
+            "JobDescription": "Produktionsmitarbeiterin",
+            "WorkExperienceInMonths": 360,
+            "ShiftWork": 2,
+            "Address": {
+                "Zip": "2514",
+                "City": "Traiskirchen",
+                "Country": "at",
+                "Region": "Niederösterreich"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 3
+                }
+            ],
+            "DeploymentRadius": 20,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 1,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2,
+            "AdditionalInformation": null,
+            "CustomIdentifier": "0024",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865587201647849,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "adc33dac-5d0e-4117-be67-5b9c8cb58d43",
+            "JobDescription": "Produktionsmitarbeiterin",
+            "WorkExperienceInMonths": 24,
+            "ShiftWork": 2,
+            "Address": {
+                "Zip": "7033",
+                "City": "Pöttsching",
+                "Country": "at",
+                "Region": "Burgenland"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 3
+                },
+                {
+                    "Language": "en",
+                    "Proficiency": 1
+                }
+            ],
+            "DeploymentRadius": 10,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 1,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2,
+            "AdditionalInformation": "Lehre zur Schildherstellerin",
+            "CustomIdentifier": "0025",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865590939932982,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "3e0e3b5a-151f-41d0-80df-6d3b0c85ac86",
+            "JobDescription": "KFZ-Techniker",
+            "WorkExperienceInMonths": 60,
+            "ShiftWork": 1,
+            "Address": {
+                "Zip": "1210",
+                "City": "Wien",
+                "Country": "at",
+                "Region": "Wien"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 3
+                },
+                {
+                    "Language": "sr",
+                    "Proficiency": 2
+                }
+            ],
+            "DeploymentRadius": 20,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 0,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2,
+            "AdditionalInformation": "Montagearbeit m\u00F6glich\r\nLehre als Kfz \u2013 Techniker mit Abschluss \r\n\u00A757 Pickerl\u00FCberpr\u00FCfungskenntnisse\r\n",
+            "CustomIdentifier": "0026",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865684589204007,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "f8630716-f181-433b-a8d8-62dabbbacab7",
+            "JobDescription": "KFZ-Techniker",
+            "WorkExperienceInMonths": 84,
+            "ShiftWork": 1,
+            "Address": {
+                "Zip": "1090",
+                "City": "Wien",
+                "Country": "at",
+                "Region": "Wien"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 3
+                },
+                {
+                    "Language": "en",
+                    "Proficiency": 1
+                }
+            ],
+            "DeploymentRadius": 10,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 0,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2,
+            "AdditionalInformation": "Montagearbeit m\u00F6glich\r\nLehre als KFZ-Techniker mit LAP\r\nEDV \u2013 Kenntnisse",
+            "CustomIdentifier": "0027",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865685271149170,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "f5821238-60d2-4dcf-97e0-2cc93f39cbb3",
+            "JobDescription": "Produktionsmitarbeiter (B\u00E4cker ohne LAP)",
+            "WorkExperienceInMonths": 36,
+            "ShiftWork": 4,
+            "Address": {
+                "Zip": "4053",
+                "City": "Haid",
+                "Country": "at",
+                "Region": "Oberösterreich"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 3
+                },
+                {
+                    "Language": "en",
+                    "Proficiency": 1
+                }
+            ],
+            "DeploymentRadius": 20,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 1,
+            "AvailableFrom": 637896384000000000,
+            "Factor": 2.2,
+            "AdditionalInformation": "7 Jahre Erfahrung als B\u00E4cker\r\nLehrausbildung als B\u00E4cker ohne LAP\r\nMS Office Kenntnisse",
+            "CustomIdentifier": "0028",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865686871512866,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "ccc314b3-fdfa-4334-81a9-98916a701f5e",
+            "JobDescription": "Produktionsmitarbeiterin",
+            "WorkExperienceInMonths": 24,
+            "ShiftWork": 4,
+            "Address": {
+                "Zip": "8903",
+                "City": "Lassing",
+                "Country": "at",
+                "Region": "Steiermark"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 3
+                }
+            ],
+            "DeploymentRadius": 50,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 1,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2.2,
+            "AdditionalInformation": "EDV-Grundkenntnisse",
+            "CustomIdentifier": "0030",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865687855767298,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "2439bdb0-dfd0-40bb-851e-b6c208deff32",
+            "JobDescription": "Produktionsmitarbeiter",
+            "WorkExperienceInMonths": 48,
+            "ShiftWork": 3,
+            "Address": {
+                "Zip": "8786",
+                "City": "Rottenmann",
+                "Country": "at",
+                "Region": "Steiermark"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 2
+                },
+                {
+                    "Language": "sq",
+                    "Proficiency": 2
+                },
+                {
+                    "Language": "en",
+                    "Proficiency": 1
+                }
+            ],
+            "DeploymentRadius": 10,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 0,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2.2,
+            "AdditionalInformation": "Lehrausbildung als Maurer",
+            "CustomIdentifier": "0031",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865691089482094,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "1f9b54f3-3ffa-4313-97bd-3b3702b3715c",
+            "JobDescription": "Produktionsmitarbeiter",
+            "WorkExperienceInMonths": 72,
+            "ShiftWork": 3,
+            "Address": {
+                "Zip": "9122",
+                "City": "St. Kanzian am Klopeiner See",
+                "Country": "at",
+                "Region": "Kärnten"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 3
+                }
+            ],
+            "DeploymentRadius": 20,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 1,
+            "AvailableFrom": 637881696000000000,
+            "Factor": 2,
+            "AdditionalInformation": "Produktionserfahrung (5-6 Jahre)\r\nStaplerschein\r\nLehre zum Maler\r\nEDV-Grundkenntnisse",
+            "CustomIdentifier": "0033",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865693326993665,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "85d1f736-4fc4-4bdc-a8fe-32c20919c777",
+            "JobDescription": "Lagermitarbeiter",
+            "WorkExperienceInMonths": 6,
+            "ShiftWork": 1,
+            "Address": {
+                "Zip": "8093",
+                "City": "St. Peter am Ottersbach",
+                "Country": "at",
+                "Region": "Steiermark"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 2
+                },
+                {
+                    "Language": "hu",
+                    "Proficiency": 1
+                },
+                {
+                    "Language": "en",
+                    "Proficiency": 1
+                }
+            ],
+            "DeploymentRadius": 20,
+            "DrivingLicenses": [
+                1,
+                4,
+                6
+            ],
+            "CarAvailability": 1,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2.2,
+            "AdditionalInformation": "Gabelstapler- \u0026 Ladekranschein\r\nErfahrungen mit Gabelstapler und Seitenstapler, Lagerprogrammen, Be- und Entladen von LKWs und in der Produktion\r\nInformationstechnologe \u2013 Technik BfI Mureck (LAP ausstehend)\r\n",
+            "CustomIdentifier": "0034",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865694488236638,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "06d82675-6cd7-4d0a-bd6c-a9e469032db9",
+            "JobDescription": "Elektrotechniker (Anlagen und Betriebstechnik)",
+            "WorkExperienceInMonths": 12,
+            "ShiftWork": 4,
+            "Address": {
+                "Zip": "1020",
+                "City": "Wien",
+                "Country": "at",
+                "Region": "Wien"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 3
+                },
+                {
+                    "Language": "en",
+                    "Proficiency": 2
+                }
+            ],
+            "DeploymentRadius": 20,
+            "DrivingLicenses": [],
+            "CarAvailability": 0,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2.4,
+            "AdditionalInformation": "Position in Wien (muss \u00F6ffentlich erreichbar sein)\r\nLehre als Elektroanlagen und Betriebstechniker, Automatisierungstechniker und\r\nProzessleittechniker mit Abschlusspr\u00FCfung\r\nSelbststudium B\u00F6rsenh\u00E4ndler mit Abschlusspr\u00FCfung\r\n",
+            "CustomIdentifier": "0035",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865695510844793,
+            "DocumentName": null,
+            "DocumentPath": null
+        },
+        {
+            "Id": "9adf343b-8fb9-4bfb-850d-8d41f3f05a09",
+            "JobDescription": "Produktionsarbeiter / Staplerfahrer / Zusteller",
+            "WorkExperienceInMonths": 60,
+            "ShiftWork": 2,
+            "Address": {
+                "Zip": "9400",
+                "City": "Wolfsberg",
+                "Country": "at",
+                "Region": "Kärnten"
+            },
+            "Languages": [
+                {
+                    "Language": "de",
+                    "Proficiency": 2
+                },
+                {
+                    "Language": "hr",
+                    "Proficiency": 2
+                },
+                {
+                    "Language": "en",
+                    "Proficiency": 1
+                }
+            ],
+            "DeploymentRadius": 20,
+            "DrivingLicenses": [
+                1
+            ],
+            "CarAvailability": 1,
+            "AvailableFrom": 637865280000000000,
+            "Factor": 2,
+            "AdditionalInformation": "Stapler- und Kranschein (mehrj\u00E4hrige Praxiserfahrung)\r\nAusbildung Schlosser ohne LAP\r\n",
+            "CustomIdentifier": "0036",
+            "CreatedBy": "b104ab84-190e-4074-ae20-872777a24e00",
+            "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+            "CreatedOnTimestamp": 637865696161816904,
+            "DocumentName": null,
+            "DocumentPath": null
+        }
+    ]
+}
