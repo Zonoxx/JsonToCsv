@@ -18,6 +18,8 @@ with open("candidates.json", "r") as file:
 now = datetime.now()
 date_as_string = now.strftime("%d.%m.%y")
 
+# pd.read_json
+
 df = pd.DataFrame(list())
 
 file_name_with_date = f'dinos_meta_data_{date_as_string}.csv'
@@ -26,6 +28,8 @@ df.to_csv(file_name_with_date)
 with open(file_name_with_date, "w") as csv_file:
     output = csv.writer(csv_file, delimiter=',')
     output.writerows([
-        ['Datum', 'Anzahl Kandidaten'],
-        [date_as_string, number_of_candidates],
+        ['Woche', 'Datum', 'Anzahl Kandidaten'],
+        [1, date_as_string, number_of_candidates],
+        [2, '21.07.21', 16],
+        [3, '28.07.21', 35],
     ])
