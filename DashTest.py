@@ -6,9 +6,11 @@ from dash import Dash, dcc, html
 
 from dash.dependencies import Input, Output
 
+from ConvertJsonToCsv import date_as_string
+
 app = dash.Dash(__name__)
 
-df = pd.read_csv("dinos_meta_data.csv")
+df = pd.read_csv(f"dinos_meta_data{date_as_string}.csv")
 
 
 df = df.groupby(['Woche', 'Anzahl Kandidaten'])
