@@ -1,0 +1,85 @@
+{
+  "Data": [
+    {
+      "Id": "b104ab84-190e-4074-ae20-872777a24e00",
+      "Mail": "pdl",
+      "CompanyId": "72a3c6e0-7b6a-4361-846c-b663914f5804",
+      "Firstname": "Petra",
+      "Lastname": "Paulsen",
+      "Roles": ["PDL"],
+      "IsVerified": true
+    },
+    {
+      "Id": "0ee699af-84a2-4909-b3be-f85fdc119c0e",
+      "Mail": "82333db5.persona-digital.de@emea.teams.ms",
+      "CompanyId": "6ead7e8a-a314-4983-8f39-0f41258ebcb8",
+      "Firstname": "Digital",
+      "Lastname": "Lab",
+      "Roles": ["PDL"],
+      "IsVerified": true
+    },
+    {
+      "Id": "64679e95-c652-4221-a1f9-ac77b6865df0",
+      "Mail": "pdl2",
+      "CompanyId": "0f9cb4d7-3766-4bf7-b0d1-3b255bd867d1",
+      "Firstname": "Petra",
+      "Lastname": "Paulsen",
+      "Roles": ["PDL"],
+      "IsVerified": true
+    },
+    {
+      "Id": "14538933-6736-4629-873b-5e14b8015988",
+      "Mail": "pdl.nosub",
+      "CompanyId": "41e79f9f-dd94-4cec-8d65-b869fca761ce",
+      "Firstname": "Fritz",
+      "Lastname": "Freml",
+      "Roles": ["PDL"],
+      "IsVerified": true
+    },
+    {
+      "Id": "5ffb47ca-5617-461b-8e7a-3784e6d9b044",
+      "Mail": "un",
+      "CompanyId": "656ce8cf-28d6-431e-9f66-56ea6d4ae4b1",
+      "Firstname": "Ute",
+      "Lastname": "Utram",
+      "Roles": ["UN"],
+      "IsVerified": true
+    },
+    {
+      "Id": "19784391-9e76-42a1-9a51-77d2c5ce52ed",
+      "Mail": "admin",
+      "CompanyId": "6ead7e8a-a314-4983-8f39-0f41258ebcb8",
+      "Firstname": "Abel",
+      "Lastname": "Anhalt",
+      "Roles": ["Admin"],
+      "IsVerified": true
+    },
+    {
+      "Id": "48d71cee-0014-4c50-a918-b6a651d06e74",
+      "Mail": "superadmin",
+      "CompanyId": "6ead7e8a-a314-4983-8f39-0f41258ebcb8",
+      "Firstname": "Super",
+      "Lastname": "Admin",
+      "Roles": ["Admin", "PDL", "UN"],
+      "IsVerified": true
+    },
+    {
+      "Id": "f415fb09-6baa-423b-a80c-544675f08b52",
+      "Mail": "un.graz",
+      "CompanyId": "2e8b62bd-dce0-478c-bdaa-39dfcc34711f",
+      "Firstname": "Matthias",
+      "Lastname": "Steiner",
+      "Roles": ["UN"],
+      "IsVerified": true
+    },
+    {
+      "Id": "3beefa04-901e-43f2-9759-11e2d88b3519",
+      "Mail": "un.wien",
+      "CompanyId": "27a93712-fbe9-4412-bcab-2ec22939dbf7",
+      "Firstname": "Lara",
+      "Lastname": "Gruber",
+      "Roles": ["UN"],
+      "IsVerified": true
+    }
+  ]
+}
